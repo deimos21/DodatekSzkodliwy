@@ -6,6 +6,6 @@ Aplikacja dedykowana dla Państwowej Straży Pożarnej generująca specjalistycz
 Screeny
 -------
 
-![alt tag](http://gordel.pl/ja/screens/szkodliwe.png)
+![alt tag](http://gordel.pl/screens/szkodliwe.png)
 
-![alt tag](http://gordel.pl/ja/screens/szkodliwe2.png)
+![alt tag](http://gordel.pl/screens/szkodliwe2.png)
